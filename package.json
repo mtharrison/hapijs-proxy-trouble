@@ -1,0 +1,24 @@
+{
+  "name": "hapijs-proxy-trouble",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "hapi": "^8.2.0",
+    "wreck": "^5.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mtharrison/hapijs-proxy-trouble.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mtharrison/hapijs-proxy-trouble/issues"
+  },
+  "homepage": "https://github.com/mtharrison/hapijs-proxy-trouble"
+}
